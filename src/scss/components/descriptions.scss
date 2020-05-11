@@ -1,0 +1,13 @@
+/* DESCRIPTIONS
+-------------------------------------------------*/
+.descriptions {
+    @extend %space;
+
+    padding-top: 30px;
+    font-size: 1rem;
+}
+
+nav.bread-background {
+  background: $colorBg;
+  height: 3em;
+}

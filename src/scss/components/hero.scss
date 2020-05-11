@@ -5,14 +5,15 @@
   margin-top: 70px;
   background: $colorPrimary;
 
-  .container-fluid {
+  .ratio-container {
     position: relative;
   }
 
-  .hero-content {
-    background-right: no-repeat;
-    background-size: cover;
-    height: 500px;
+  img {
+    width: 100%;
+    height: 40vw;
+    max-height: 500px;
+    object-fit: cover;
   }
 
 }
