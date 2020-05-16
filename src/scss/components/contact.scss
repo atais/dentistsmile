@@ -7,6 +7,9 @@
   &.light {
     background: $colorBg;
   }
+  &.none {
+    background: none;
+  }
 
   .three-shade-col {
     @extend %clearfix;

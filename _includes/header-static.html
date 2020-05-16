@@ -15,7 +15,8 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse scrollspy" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li                                                             ><a href="/">Home</a></li>
+                <li class="{%if include.active == 'blog'   %}active{% endif %}"><a href="/blog">Blog</a></li>
+                <li                                                            ><a href="/">Home</a></li>
                 <li class="{%if include.active == 'oferta' %}active{% endif %}"><a href="/#oferta">Oferta</a></li>
                 <li class="{%if include.active == 'zespol' %}active{% endif %}"><a href="/#zespol">Zespół</a></li>
                 <li class="{%if include.active == 'cennik' %}active{% endif %}"><a href="/#cennik">Cennik</a></li>

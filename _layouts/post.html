@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body data-spy="scroll" data-offset="80" data-target=".scrollspy" id="top">
+
+<!--[if lt IE 10]>
+<p class="oldie">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> to
+    better experience this site.</p>
+<![endif]-->
+
+{% include header-static.html active="blog" %}
+
+<div class="blog">
+    <div id="page_content" class="page_content">
+        <div class="container-fluid">
+
+            <!-- Content -->
+            <div class="row">
+                <div class="col-md-9 col-sm-8 col-sm-push-4 col-md-push-3">
+
+                    {{ content }}
+
+                </div>
+
+
+                <div class="col-md-3 col-sm-4 col-sm-pull-8 col-md-pull-9">
+                    ???
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+{% include contact.html background="none" %}
+
+{% include map.html %}
+
+{% include footer.html %}
+
+{% include analytics.html %}
+
+<script src="/dist/main.bundle.js"></script>
+</body>
+</html>
