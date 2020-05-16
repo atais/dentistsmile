@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body data-spy="scroll" data-offset="80" data-target=".scrollspy" id="top">
+
+<!--[if lt IE 10]>
+<p class="oldie">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> to
+    better experience this site.</p>
+<![endif]-->
+
+{% include header-static.html active="oferta" %}
+
+{% include hero.html %}
+
+<div class="descriptions">
+    <div id="page_content" class="page_content">
+        <div class="container-fluid">
+
+            <!-- Content -->
+            <div class="row">
+                <div class="col-md-9 col-sm-8 col-sm-push-4 col-md-push-3">
+
+                    {{ content }}
+
+                </div>
+
+
+                <div class="col-md-3 col-sm-4 col-sm-pull-8 col-md-pull-9">
+                    <h1 class="hidden-xs">Usługi</h1>
+                    <br class="visible-xs">
+                    <h1 class="visible-xs">Pozostałe usługi</h1>
+                    <hr>
+                    <ul class="nav nav-pills nav-stacked">
+                        <li><a href="dla_doroslych.html">Dla dorosłych</a></li>
+                        <li><a href="dla_dzieci.html">Dla dzieci</a></li>
+                        <li><a href="dla_mlodziezy.html">Dla młodzieży</a></li>
+                        <li><a href="logopedia_medialna.html">Logopedia medialna</a></li>
+                        <li><a href="oferta_specjalna.html">Oferta specjalna</a></li>
+                        <li><a href="zajecia_grupowe.html">Zajęcia grupowe</a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+{% include contact.html background="light" %}
+
+{% include map.html %}
+
+{% include footer.html %}
+
+{% include analytics.html %}
+
+<script src="/dist/main.bundle.js"></script>
+<script>
+    var url = window.location;
+    $('ul.nav a').filter(function() {
+        return this.href == url;
+    }).parent().addClass('active');
+</script>
+</body>
+</html>

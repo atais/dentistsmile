@@ -5,9 +5,34 @@
 
     padding-top: 30px;
     font-size: 1rem;
-}
 
-nav.bread-background {
-  background: $colorBg;
-  height: 3em;
+    @media (max-width: 768px) {
+       h1 {
+          text-align: center;
+       }
+    }
+
+    .nav-pills {
+        margin-bottom: 0;
+        border: none;
+    }
+
+    .nav-pills > li > a,
+    .nav-pills > li > a:focus {
+        color: $colorBase;
+    }
+    
+    .nav-pills > li > a:hover {
+        color: $white;
+        background: lighten($colorPrimary, 5%);
+    }
+
+    .nav-pills > li.active >a,
+    .nav-pills > li.active >a:hover,
+    .nav-pills > li.active >a:focus {
+        color: $white;
+        background: $colorPrimary;
+    }
+    
+    
 }

@@ -1,9 +1,14 @@
 ---
-layout: subpage
+layout: oferta
 hero: "dreamstime_56749443.jpg"
-title: "Dla młodzieży"
 hero-position: "100% 30%"
+title: "Logopeda dla młodzieży | LogosArt Łódź"
 ---
+
+# Logopeda dla młodzieży
+
+<hr>
+
 
 Pracujemy z młodzieżą:
 

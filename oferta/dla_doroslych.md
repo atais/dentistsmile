@@ -1,9 +1,13 @@
 ---
-layout: subpage
+layout: oferta
 hero: "dreamstime_19080961.jpg"
-title: "Dla dorosłych"
 hero-position: "100% 30%"
+title: "Logopeda dla dorosłych | LogosArt Łódź"
 ---
+
+# Logopeda dla dorosłych
+
+<hr>
 
 Szkolimy osoby dorosłe w zakresie:
 

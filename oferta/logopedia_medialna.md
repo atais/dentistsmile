@@ -1,9 +1,13 @@
 ---
-layout: subpage
+layout: oferta
 hero: "dreamstime_75973715.jpg"
-title: "Logopedia medialna"
 hero-position: "100% 20%"
+title: "Logopedia medialna | LogosArt Łódź"
 ---
+
+# Lopedia medialna
+
+<hr>
 
 To dział logopedii zajmujący się szkoleniem w zakresie poprawnej wymowy 
 i emisji głosu. Oferta skierowana do osób, dla których głos i dykcja 

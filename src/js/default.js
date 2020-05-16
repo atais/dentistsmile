@@ -12,6 +12,7 @@
         ----------------------------------------------*/
     var SweetScroll = require("sweet-scroll");
     new SweetScroll({
+        updateURL: true
     });
 
     /* Google map

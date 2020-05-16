@@ -1,9 +1,13 @@
 ---
-layout: subpage
+layout: oferta
 hero: "dreamstime_78648654.jpg"
-title: "Oferta specjalna"
 hero-position: "100% 50%"
+title: "Specjalna oferta logopedyczna | LogosArt Łódź"
 ---
+
+# Specjalna oferta logopedyczna
+
+<hr>
 
 ## Zajęcia grupowe
 
