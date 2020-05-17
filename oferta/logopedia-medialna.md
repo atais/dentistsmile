@@ -1,7 +1,7 @@
 ---
 layout: oferta
-hero: "dreamstime_75973715.jpg"
-hero-position: "100% 20%"
+hero: "media1.jpg"
+hero-position: "100% 65%"
 title: "Logopedia medialna | LogosArt Łódź"
 ---
 
