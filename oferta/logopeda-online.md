@@ -21,4 +21,6 @@ Do prowadzenia zajęć wykorzystujemy programy dostosowując się do potrzeb i m
 
 Każda sesja podparta jest materiałami, które udostępniamy mailowo, zawierającymi 
 zarówno ćwiczenia wykorzystywane podczas zajęć jak i zadania domowe do wykonywania samodzielnie.
-             
+
+Ofertę kierujemy zarówno do osób zza granicy, poszukujących specjalisty w dziedzinie 
+poprawnej polszczyzny jak i do wszystkich tych, którzy cenią sobię wygodę nauki bez wychodzenia z domu.
