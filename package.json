@@ -10,7 +10,7 @@
     "build": "npm run clean && npm run jekyll-build && npm run webpack-build",
     "clean": "rimraf _site",
     "jekyll-build": "bundle exec jekyll build",
-    "webpack-build": "webpack --progress --profile --bail",
+    "webpack-build": "webpack",
     "deploy": "npm run build && git-directory-deploy --directory _site --branch gh-pages"
   },
   "devDependencies": {

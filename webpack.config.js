@@ -10,7 +10,7 @@ const extractSass = new ExtractTextPlugin({
  * Get npm lifecycle event to identify the environment
  */
 var ENV = process.env.npm_lifecycle_event;
-var isProd = ENV === "build";
+var isProd = ENV === "webpack-build";
 
 module.exports = function makeWebpackConfig() {
   var config = {};
