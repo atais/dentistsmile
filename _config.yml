@@ -28,6 +28,10 @@ copyright: © 2017 Michał Siatkowski - All rights reserved
 markdown: kramdown
 
 exclude: [
+    dev-deploy.sh,
+    docker-compose.yml,
+    LICENSE.md,
+    README.md,
     package*.json,
     node_modules,
     .gitignore,
@@ -36,10 +40,6 @@ exclude: [
     test,
     Gemfile*,
     webpack*
-]
-
-keep_files: [
-  dist
 ]
 
 plugins:
