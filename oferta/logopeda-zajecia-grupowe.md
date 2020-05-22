@@ -17,10 +17,7 @@ czas trwania zajęć i przerw dzielących poszczególne zespoły.
 
 ## Przykładowe zajęcia
 
-Podczas zajęć grupowych można przekazać wiedzę teoretyczną z zakresu emisji głosu i poprawnego oddychania oraz 
-wykonać praktyczne ćwiczenia.
-Ważne jest by osoby w grupie współpracowały ze sobą oraz logopedą.... eee
-
-W przypadku indywidualnych problemów wystosujemy zalecenia? Zajecia w grupie pozwalają ... dostrzec błędy innych ?
-Czy są tu jakieś zalety :)?
-
+Podczas zajęć grupowych można przekazać wiedzę teoretyczną z zakresu poprawnej polszczyzny i zasad fonetyki. 
+Można wykonać praktyczne ćwiczenia z poprawnej emisji głosu, oddychania lub poprowadzić warsztaty 
+demonstrujące usprawnianie aparatu mowy. Oczywiście jest to trening ogólny. W przypadku np. wady wymowy, 
+nie zastąpi indywidualnej terapii.

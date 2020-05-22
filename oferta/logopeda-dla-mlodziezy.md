@@ -9,30 +9,33 @@ title: "Logopeda dla młodzieży | LogosArt Łódź"
 
 <hr>
 
-Pracujemy z młodzieżą w zakresie:
+Zakres pracy z młodzieżą:
 
-- przygotowania do egzaminów do szkoły filmowej i teatralnej
-- interpretacji i rozumieniem tekstów z poezji i prozy
-- autoprezentacji
-- dysleksji
-- seplenienia
-- poprawnej wymowy głosek lub wad wymowy
+- przygotowanie do egzaminów do szkoły filmowej i teatralnej
+- interpretacja i rozumienie tekstów z poezji i prozy
+- autoprezentacja
+- poprawna artykulacja
+- usuwanie wad wymowy 
 
 ## Przygotowanie do szkoły aktorskiej
 
-Tym, którzy chcieliby spróbować swoich sił w zawodzie aktora proponujemy pomoc 
-w przygotowaniu do egzaminów do szkół teatralnych. Na przygotowanie składają się:
+Tym, którzy chcieliby spróbować swoich sił w zawodzie aktora proponujemy pomoc w przygotowaniu 
+do egzaminów do szkół teatralnych. Zajmiemy się:
 
-- poprawianie sprawności artykulacyjnej, ćwiczenia mowy
-- korektę wad wymowy lub niedoskonałości artykulacyjnych
-- ćwiczenia oddechowe
-- praca nad prawidłowym oddechem i fonacją
+- poprawieniem sprawności artykulacyjnej aparatu mowy
+- korektą wad wymowy lub niedoskonałości artykulacyjnych
+- prawidłowym  oddechem i fonacją
+
+Oferta skierowana jest również do tych młodych ludzi, którzy chcieliby wybrać inne profesje, gdzie 
+głos i poprawna wymowa stanowią podstawę wykonywanego zawodu.
  
 ## Interpretacja tekstów z poezji i prozy
 
-Posiadając wieloletnie doświadczenie w zawodzie aktora i w pracy ze studentami 
-szkół artystycznych,  możemy również zaoferować pomoc dotyczącą interpretacji i 
-rozumienia tekstów zarówno z prozy jak i  poezji, z literatury polskiej i obcej, 
-klasycznej i współczesnej.
+Posiadając wieloletnie doświadczenie w zawodzie aktora i w pracy ze studentami szkół artystycznych, 
+możemy również zaoferować pomoc dotyczącą interpretacji i rozumienia tekstów zarówno z prozy jak i poezji, 
+z literatury polskiej i obcej, klasycznej i współczesnej.
+ 
+
+
 
 

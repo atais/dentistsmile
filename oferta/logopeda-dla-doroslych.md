@@ -9,11 +9,10 @@ title: "Logopeda dla dorosłych | LogosArt Łódź"
 
 <hr>
 
-Trudności z poprawną artykulacją u osób dorosłych mogą być przyczyną problemów w kontaktach interpersonalnych,
-powodować powstawanie kompleksów i niską samoocenę. 
-Zajęcia terapeutyczne dla tej grupy wiekowej
-prowadzone są w zakresie diagnozowania i korygowania wad wymowy, ale też pracujemy z klientami,
-którzy upraszczają pewne grupy spółgłoskowe, bądź eliminują niektóre głoski.
+Trudności z poprawną artykulacją u tej grupy wiekowej  mogą być przyczyną problemów w kontaktach interpersonalnych, 
+powodować powstawanie kompleksów i niską samoocenę. Zajęcia terapeutyczne dla dorosłych prowadzone 
+są w zakresie diagnozowania i korygowania wad wymowy, ale też pracujemy z klientami, którzy upraszczają 
+pewne grupy spółgłoskowe, bądź eliminują niektóre głoski. 
 
 Szkolimy osoby dorosłe w zakresie:
 
@@ -22,25 +21,24 @@ Szkolimy osoby dorosłe w zakresie:
 - radzenia sobie ze stresem podczas wystąpień publicznych
 - sztuki prezentacji
 
-
 ## Program logopedyczny
 
-W całym procesie mówienia niebagatelną rolę odgrywa oddychanie i fonacja.
-Dołączamy więc do terapii logopedycznej zestawy ćwiczeń oddechowo-fonacyjnych,
-by zyskali Państwo świadomość, jak w sposób najbardziej efektywny wykorzystać
-i rozszerzyć własne możliwości. Wynikiem tak prowadzonej terapii jest uzyskanie wyrazistej
-mowy i  poprawnej artykulacji, a to z kolei buduje pewność siebie i poczucie własnej wartości.
-Jest to również baza dla wszelkiego rodzaju wystąpień publicznych.
+W całym procesie mówienia niebagatelną rolę odgrywa oddychanie i fonacja.Dołączamy więc do terapii 
+logopedycznej dorosłych zestawy ćwiczeń oddechowo- fonacyjnych, by zyskali Państwo świadomość, 
+jak w sposób najbardziej efektywny wykorzystać  i rozszerzyć własne możliwości. Wynikiem tak 
+prowadzonych zajęć jest wyrazista mowa i  poprawna artykulacja, a to z kolei buduje pewność siebie 
+i poczucie własnej wartości. Jest to baza dla wszelkiego rodzaju wystąpień publicznych.
 
-Pomagamy pozbyć się schorzeń typu:
+Pomagamy pozbyć się wady wymowy takiej jak np:
+
 - sygmatyzm interdentalny
-- seplenienie międzyzębowe
-- seplenienie boczne
+- sygmatyzm boczny
+- rotacyzm
 
 
 ## Program ćwiczeń logopedycznych
 
-- ćwiczenia artykulacyjne
-- ćwiczenia fonacyjne
+- ćwiczenia usprawniające aparat mowy
 - ćwiczenia dykcyjne
-- ćwiczenia na seplenienie międzyzębowe
+- ćwiczenia fonacyjne
+- ćwiczenia oddechowe

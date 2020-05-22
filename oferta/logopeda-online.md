@@ -9,18 +9,20 @@ title: "Logopeda online, zajęcia logopedyczne online | LogosArt Łódź"
 
 <hr>
 
-Nasza oferta jest również dostępna przez internet.
-Z powodzeniem prowadzimy zdalne zajęcia logopedyczne z różnymi grupami wiekowymi.
+Nasza oferta jest również dostępna przez internet. Z powodzeniem prowadzimy zdalne zajęcia logopedyczne 
+dla różnych grup wiekowych.
 
-Zaletą tej formy zajęć jest wysoka dostępność oraz duża elastyczność czasowa.
-Do prowadzenia zajęć wykorzystujemy programy dostosowując się do potrzeb i możliwości klienta:
+Zaletą tej formy zajęć jest wysoka dostępność oraz duża elastyczność czasowa. 
+Do prowadzenia zajęć wykorzystujemy programy: 
 
 - Skype
 - Zoom
 - Facebook Messanger
 
-Każda sesja podparta jest materiałami, które udostępniamy mailowo, zawierającymi 
-zarówno ćwiczenia wykorzystywane podczas zajęć jak i zadania domowe do wykonywania samodzielnie.
+dostosowując się do potrzeb i możliwości klienta.
 
-Ofertę kierujemy zarówno do osób zza granicy, poszukujących specjalisty w dziedzinie 
+W sesjach wykorzystujemy materiały, które udostępniamy mailowo. Zawierają one zarówno 
+ćwiczenia wykorzystywane podczas zajęć jak i zadania domowe do wykonywania samodzielnie.
+
+Ofertę kierujemy zarówno do osób z zagranicy, poszukujących specjalisty w dziedzinie 
 poprawnej polszczyzny jak i do wszystkich tych, którzy cenią sobię wygodę nauki bez wychodzenia z domu.
