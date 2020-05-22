@@ -42,5 +42,9 @@ exclude: [
     webpack*
 ]
 
+keep_files: [
+  dist
+]
+
 plugins:
   - jekyll-sitemap
