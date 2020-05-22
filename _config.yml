@@ -29,7 +29,6 @@ markdown: kramdown
 
 exclude: [
     dev-deploy.sh,
-    docker-compose.yml,
     LICENSE.md,
     README.md,
     package*.json,
