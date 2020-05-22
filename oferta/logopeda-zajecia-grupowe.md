@@ -15,9 +15,10 @@ zleceniodawcy. Dla zapewnienia najwyższej jakości usług grupa nie powinna
 liczyć więcej niż 10 osób. Grup może być kilka. Do uzgodnienia pozostaje 
 czas trwania zajęć i przerw dzielących poszczególne zespoły.
 
-## Przykładowe zajęcia
+## Przykładowa tematyka zajęć
 
-Podczas zajęć grupowych można przekazać wiedzę teoretyczną z zakresu poprawnej polszczyzny i zasad fonetyki. 
-Można wykonać praktyczne ćwiczenia z poprawnej emisji głosu, oddychania lub poprowadzić warsztaty 
-demonstrujące usprawnianie aparatu mowy. Oczywiście jest to trening ogólny. W przypadku np. wady wymowy, 
-nie zastąpi indywidualnej terapii.
+- teoretyczna wiedza z zakresu poprawnej polszczyzny i zasad fonetyki. 
+- praktyczne ćwiczenia z poprawnej emisji głosu
+- trening oddechu
+- warsztaty usprawniania aparatu mowy
+- występowanie przed publicznością

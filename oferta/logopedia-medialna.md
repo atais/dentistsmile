@@ -5,7 +5,7 @@ hero-position: "100% 90%"
 title: "Logopedia medialna | LogosArt Łódź"
 ---
 
-# Lopedia medialna
+# Logopedia medialna
 
 <hr>
 
@@ -15,7 +15,7 @@ interpretacji tekstów, techniki mówienia. Naszą ofertę kierujemy więc do os
 wybierając drogę dalszego rozwoju, chciałyby poprawić swoje umiejętności autoprezentacji, 
 przygotować się do egzaminów do szkół teatralnych, czy do pracy w radio lub telewizji.
 
-## Dla kogo ?
+## Dla kogo?
 
 Logopedia medialna skierowana jest do wszystkich, których praca wiąże się z kontaktami międzyludzkimi 
 lub wymaga umiejętności prezentacji, na przykład:
@@ -34,7 +34,7 @@ warunkach i w jakim celu. Sprawność artykulacyjna, wyrazistość mowy i właś
 wypowiedzi świadczą o umiejętności posługiwania się odpowiednimi środkami wyrazu w budowaniu komunikatu.
 
 
-## Kiedy możemy pomóc ?
+## Kiedy możemy pomóc?
 
 Logopedia medialna to świetne rozwiązanie, aby zachować spokój i pewność siebie podczas przemówień lub 
 prezentacji, a także wyeliminować problemy związane z mową.
