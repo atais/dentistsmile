@@ -1,6 +1,6 @@
 ---
 layout: oferta
-hero: "media1.jpg"
+hero: "shutterstock_1188728074.jpg"
 hero-position: "100% 65%"
 title: "Logopedia medialna | LogosArt Łódź"
 ---

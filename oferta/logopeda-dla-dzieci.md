@@ -1,6 +1,6 @@
 ---
 layout: oferta
-hero: "kid1.jpg"
+hero: "shutterstock_1241157361.jpg"
 hero-position: "100% 10%"
 title: "Logopeda dla dzieci | LogosArt Łódź"
 ---

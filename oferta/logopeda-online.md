@@ -1,6 +1,6 @@
 ---
 layout: oferta
-hero: "online1.jpg"
+hero: "shutterstock_275489732.jpg"
 hero-position: "100% 35%"
 title: "Logopeda online, zajęcia logopedyczne online | LogosArt Łódź"
 ---

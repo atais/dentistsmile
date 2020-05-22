@@ -1,6 +1,6 @@
 ---
 layout: oferta
-hero: "group1.jpg"
+hero: "shutterstock_712952062.jpg"
 title: "Logopeda zajęcia grupowe | LogosArt Łódź"
 hero-position: "100% 10%"
 ---
