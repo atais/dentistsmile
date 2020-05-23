@@ -1,8 +1,11 @@
 <!-- Start Hero -->
 <div class="hero">
-    <div class="container-fluid">
-        <div class="hero-content" style="background-image: url({{ site.hero }})">
-        </div>
+    <div class="container-fluid ratio-container">
+
+        <img src="/img/hero/{{ page.hero }}"
+             alt="Osoba przedstawiająca ofertę {{ page.title }}"
+             style="object-position: {{ page.hero-position }};"
+        />
     </div>
 </div>
 <!-- End Hero -->

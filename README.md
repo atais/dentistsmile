@@ -5,7 +5,8 @@
 2. Install `Jekyll` (https://jekyllrb.com/docs/pages/)
 
    ```
-   gem install jekyll bundler
+   gem install bundler
+   bundle install
    ```
 
 3. Install node (https://nodejs.org/)

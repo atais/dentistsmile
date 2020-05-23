@@ -2,7 +2,7 @@
 -------------------------------------------------*/
 .icon-box {
     width: 100%;
-    padding: $space;
+    padding: $space $space $space*3 $space;
     margin-bottom: $space;
     background: $white;
     text-align: center;
@@ -17,5 +17,35 @@
     .icon {
         color: $colorPrimary;
         font-size: 1.5rem;
+    }
+}
+
+a.icon-box-link {
+    width: 100%;
+    display: flex;
+    text-decoration:none;
+
+    &:visited {
+        color:$colorPrimary;
+    }
+
+    .icon-box:hover {
+        box-shadow: 10px 10px 5px #aaaaaa;
+        cursor: pointer;
+        color: $colorPrimary;
+    }
+}
+
+.read-more {
+    position: absolute;
+    right: $space;
+    bottom: $space;
+    padding: $space;
+
+    .icon {
+        font-size: 0.8rem;
+    }
+    span {
+        font-size: 0.8rem;
     }
 }

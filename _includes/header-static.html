@@ -9,17 +9,17 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand scroll" data-scroll href="#top"><img src="{{ site.logo }}" alt="Logo {{ page.title }}"></a>
+            <a class="navbar-brand scroll" href="/"><img src="{{ site.logo }}" alt="{{ page.title }}"></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse scrollspy" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li><a data-scroll href="#home">Home</a></li>
-                <li><a data-scroll href="#oferta">Oferta</a></li>
-                <li><a data-scroll href="#zespol">Zespół</a></li>
-                <li><a data-scroll href="#cennik">Cennik</a></li>
-                <li><a data-scroll href="#kontakt">Kontakt</a></li>
+                <li                                                             ><a href="/">Home</a></li>
+                <li class="{%if include.active == 'oferta' %}active{% endif %}"><a href="/#oferta">Oferta</a></li>
+                <li class="{%if include.active == 'zespol' %}active{% endif %}"><a href="/#zespol">Zespół</a></li>
+                <li class="{%if include.active == 'cennik' %}active{% endif %}"><a href="/#cennik">Cennik</a></li>
+                <li class="{%if include.active == 'kontakt'%}active{% endif %}"><a href="/#kontakt">Kontakt</a></li>
             </ul>
         </div>
     </div>

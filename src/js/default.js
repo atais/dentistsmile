@@ -12,7 +12,7 @@
         ----------------------------------------------*/
     var SweetScroll = require("sweet-scroll");
     new SweetScroll({
-      offset: "-70",
+        updateURL: true
     });
 
     /* Google map

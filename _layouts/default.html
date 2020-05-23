@@ -3,23 +3,29 @@
 
 {% include head.html %}
 
-<body data-spy="scroll" data-offset="80" data-target=".scrollspy" id="top">
+<body data-spy="scroll" data-offset="70" data-target=".scrollspy">
 
 <!--[if lt IE 10]>
 <p class="oldie">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> to
     better experience this site.</p>
 <![endif]-->
+<div class="scroll-aware" id="home"></div>
+
 
 {% include header.html %}
 
 {% include hero.html %}
 
+<div class="scroll-aware" id="oferta"></div>
 {% include offer.html %}
 
+<div class="scroll-aware" id="zespol"></div>
 {% include about.html %}
 
+<div class="scroll-aware" id="cennik"></div>
 {% include prices.html %}
 
+<div class="scroll-aware" id="kontakt"></div>
 {% include contact.html %}
 
 {% include map.html %}
@@ -28,6 +34,6 @@
 
 {% include analytics.html %}
 
-<script src="dist/main.bundle.js"></script>
+<script src="/dist/main.bundle.js"></script>
 </body>
 </html>

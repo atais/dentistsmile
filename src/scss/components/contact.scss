@@ -4,6 +4,10 @@
   @extend %space;
   background: $colorPrimary;
 
+  &.light {
+    background: $colorBg;
+  }
+
   .three-shade-col {
     @extend %clearfix;
     @extend %align-center;
@@ -18,13 +22,14 @@
         padding-left: $space*3;
         padding-right: $space*3;
       }
-      &:nth-child(1) {
+
+      &.first {
         background: lighten($colorPrimary, 5%);
       }
-      &:nth-child(2) {
+      &.second {
         background: lighten($colorPrimary, 7%);
       }
-      &:nth-child(3) {
+      &.third {
         background: lighten($colorPrimary, 9%);
       }
     }
