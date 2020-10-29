@@ -10,10 +10,32 @@
         &:first-child {
           width: 60%;
         }
+
         &:nth-child(2), &:nth-child(3) {
           width: 20%;
         }
       }
+    }
+  }
+
+  .blur {
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+    background-color: $colorBg;
+  }
+
+  .instead {
+    position: absolute;
+    z-index: 100;
+    padding-top: 5em;
+    left: 0;
+    right: 0;
+
+    h1 {
+      font-weight: 700;
     }
   }
 }

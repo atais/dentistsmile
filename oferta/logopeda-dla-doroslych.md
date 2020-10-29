@@ -3,6 +3,7 @@ layout: oferta
 hero: "dreamstime_75973715.jpg"
 hero-position: "100% 20%"
 title: "Logopeda dla dorosłych | LogosArt Łódź"
+new-link: https://polskilogopeda.pl/oferta/logopeda-dla-doroslych
 ---
 
 # Zajęcia logopedyczne dla dorosłych

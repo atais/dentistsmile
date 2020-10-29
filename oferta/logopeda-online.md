@@ -3,6 +3,7 @@ layout: oferta
 hero: "shutterstock_275489732.jpg"
 hero-position: "100% 35%"
 title: "Logopeda online, zajęcia logopedyczne online | LogosArt Łódź"
+new-link: https://polskilogopeda.pl/zajecia/logopeda-online
 ---
 
 # Zajęcia logopedyczne online

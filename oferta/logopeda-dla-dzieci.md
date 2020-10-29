@@ -3,6 +3,7 @@ layout: oferta
 hero: "shutterstock_1241157361.jpg"
 hero-position: "100% 10%"
 title: "Logopeda dla dzieci | LogosArt Łódź"
+new-link: https://polskilogopeda.pl/oferta/logopeda-dla-dzieci
 ---
 
 # Logopeda dla dzieci

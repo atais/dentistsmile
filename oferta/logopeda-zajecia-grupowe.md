@@ -3,6 +3,7 @@ layout: oferta
 hero: "shutterstock_712952062.jpg"
 title: "Logopeda zajęcia grupowe | LogosArt Łódź"
 hero-position: "100% 10%"
+new-link: https://polskilogopeda.pl/oferta/logopeda-zajecia-grupowe
 ---
 
 # Zajęcia grupowe

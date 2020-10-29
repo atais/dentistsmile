@@ -3,6 +3,7 @@ layout: oferta
 hero: "shutterstock_1188728074.jpg"
 hero-position: "100% 90%"
 title: "Logopedia medialna | LogosArt Łódź"
+new-link: https://polskilogopeda.pl/oferta/logopedia-medialna
 ---
 
 # Logopedia medialna

@@ -3,6 +3,7 @@ layout: oferta
 hero: "dreamstime_56749443.jpg"
 hero-position: "100% 30%"
 title: "Logopeda dla młodzieży | LogosArt Łódź"
+new-link: https://polskilogopeda.pl/oferta/logopeda-dla-mlodziezy
 ---
 
 # Logopeda dla młodzieży
